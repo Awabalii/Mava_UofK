@@ -36,6 +36,13 @@
   <img align="center" src="docs/images/animation_quick.gif" width="70%">
 </p>
 
+## Work in progress by UofK
+Contributors toward Sequential Social Dilemmas domain
+- Ahmed
+- Awab
+- Mona
+- Rami
+
 ## Welcome to Mava! 🦁
 
 [**Installation**](#installation-)
